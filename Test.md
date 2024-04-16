@@ -14,3 +14,10 @@ sd
 f
 agit 
 
+
+da
+ds
+
+a
+s
+s
