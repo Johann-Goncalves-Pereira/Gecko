@@ -11,11 +11,9 @@
             "id": "9e23ebbb4c2824ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Untitled Kanban.md"
               }
             }
           }
@@ -149,7 +147,7 @@
   },
   "active": "9e23ebbb4c2824ba",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Test.md"
+    "Test.md",
+    "Untitled Kanban.md"
   ]
 }
